@@ -9,7 +9,7 @@ app.use(cors());
 const PORT = 5000;
 
 // ✅ 대구 버스 API 키
-const API_KEY = "pyQOwrIyUvIGywiiaHLjlWdFbv91ODcsA4eaXM%2B4wsn2Crk8%2FLtt8W07yQNdngzJK%2FO%2BMe0QEQlf%2FNtx%2FJaZ9A%3D%3D";
+const API_KEY = "??";
 
 // ✅ CSV 정류장 데이터 로드
 let stations = [];
